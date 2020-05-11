@@ -1,0 +1,21 @@
+:root {
+    --text-color: #ffffff;
+    --white-color: #ffffff;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Cabin', sans-serif;
+    box-sizing: border-box;
+}
+/* .navbar-slider__bottom-img.bds{
+   animation: imgGrow ease-in 1s;
+   transform-origin: top left;
+   
+   
+  } */
+ 
